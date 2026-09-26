@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build & Compilation Outputs
+build/
+dist/
+target/
+backend/target/
+coverage/
+
+# Environment Variables
+.env*
+!.env.example
+
+# Logs
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDEs & Editors (IntelliJ, VS Code, Eclipse)
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
