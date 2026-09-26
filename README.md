@@ -11,22 +11,6 @@
 [![Redis](https://img.shields.io/badge/Cache-Redis%207.2-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-<p align="center">
-  <b>Enterprise-grade continuous health telemetry SaaS bridging 1Hz optical PPG wearables, continuous glucose monitors (Dexcom G7), sleep polysomnography, and longitudinal lab panels into unified diagnostic intelligence.</b>
-</p>
-
-<!-- Interactive Quick-Launch Bar -->
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                             INTERACTIVE QUICK-LAUNCH DOCK                              │
-├────────────────────┬────────────────────┬────────────────────┬─────────────────────────┤
-│   Live Dashboard   │    Anomaly Matrix  │   Delta Trends     │     Goal Targets        │
-│  [Launch App ↗]    │  [Open Heatmap ↗]  │  [Compare WoW ↗]   │  [Configure Goals ↗]   │
-├────────────────────┼────────────────────┼────────────────────┼─────────────────────────┤
-│     Alert Guard    │    Wearables Hub   │     Export CSV     │     API cURL Sandbox    │
-│  [Set Rules ↗]     │  [Inspect Sync ↗]  │  [Download Data ↗]│   [Run Recipes ↗]       │
-└────────────────────┴────────────────────┴────────────────────┴─────────────────────────┘
-```
 
 </div>
 
@@ -56,7 +40,7 @@
 Select your operational role below to simulate workflows and access dedicated tools in the live app:
 
 <details open>
-<summary><b>🩺 Scenario 1: Cardiologist & Electrophysiologist (Click to expand)</b></summary>
+<summary><b>Scenario 1: Cardiologist & Electrophysiologist (Click to expand)</b></summary>
 <br>
 
 ```text
