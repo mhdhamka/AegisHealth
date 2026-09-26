@@ -47,13 +47,13 @@ Select your operational role below to simulate workflows and access dedicated to
 Screen for paroxysmal atrial fibrillation, nocturnal bradycardia nadirs, and sustained tachycardia episodes.
 ```
 
-- **Primary Diagnostic View:** [Biometric Alerts & Rules Manager ↗](https://ais-dev-3jld7txfhxacz4zpi6qm63-469594656936.asia-east1.run.app)
+- **Primary Diagnostic View:** [Biometric Alerts & Rules Manager ↗](https://localhost:3000)
 - **Active Threshold Guards:**
   - Resting Tachycardia: $> 100\text{ bpm}$ (sustained $\ge 3\text{ min}$)
   - Nocturnal Bradycardia: $< 40\text{ bpm}$ (sustained $\ge 5\text{ min}$)
   - Acute Hypoxemia: $SpO_2 < 90\%$ (instantaneous dispatch)
 - **Interactive Action:**
-  1. Open [Live Web App ↗](https://ais-dev-3jld7txfhxacz4zpi6qm63-469594656936.asia-east1.run.app)
+  1. Open [Live Web App ↗](https://localhost:3000)
   2. Navigate to **Biometric Alerts**
   3. Click **"+ Add Rule"** to instantiate custom tachycardia bounds or adjust duration dampening filters.
 
@@ -68,7 +68,7 @@ Screen for paroxysmal atrial fibrillation, nocturnal bradycardia nadirs, and sus
 Monitor parasympathetic adaptation, autonomic recovery readiness, and week-over-week training strain deltas.
 ```
 
-- **Primary Diagnostic View:** [Biometrics Trends & Comparative Analytics ↗](https://ais-dev-3jld7txfhxacz4zpi6qm63-469594656936.asia-east1.run.app)
+- **Primary Diagnostic View:** [Biometrics Trends & Comparative Analytics ↗](https://localhost:3000)
 - **Key Metrics Tracked:**
   - Nocturnal $rMSSD$ Heart Rate Variability vs. 30-Day Rolling Baseline
   - Autonomic Recovery Readiness Score ($R_{\text{autonomic}} \ge 80\%$)
@@ -89,7 +89,7 @@ Monitor parasympathetic adaptation, autonomic recovery readiness, and week-over-
 Extract continuous time-series sensor feeds into RFC 4180 CSV for statistical ingestion in Python / R.
 ```
 
-- **Primary Diagnostic View:** [Formatted CSV Telemetry Downloader ↗](https://ais-dev-3jld7txfhxacz4zpi6qm63-469594656936.asia-east1.run.app)
+- **Primary Diagnostic View:** [Formatted CSV Telemetry Downloader ↗](https://localhost:3000)
 - **Features Available:**
   - Instant 1-click RFC 4180 compliant CSV export
   - Comprehensive column schema with `Timestamp`, `HR`, `HRV_rMSSD`, `Systolic`, `Diastolic`, `SpO2`, `Glucose`, `Strain`, and `Anomaly_Notes`
@@ -106,7 +106,7 @@ Extract continuous time-series sensor feeds into RFC 4180 CSV for statistical in
 Validate Bluetooth LE ingestion cadences, packet drop rates, and peripheral battery levels across hardware.
 ```
 
-- **Primary Diagnostic View:** [Wearables Sync Hub ↗](https://ais-dev-3jld7txfhxacz4zpi6qm63-469594656936.asia-east1.run.app)
+- **Primary Diagnostic View:** [Wearables Sync Hub ↗](https://localhost:3000)
 - **Active Hardware Registry:**
   - Garmin Forerunner 965 (Real-Time BLE · 88% Battery)
   - Whoop 4.0 Strap (10-min Cloud REST Sync · 72% Battery)
