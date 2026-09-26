@@ -19,17 +19,17 @@
 
 > **Click any tab below to expand and interact with that section immediately:**
 
-* [**Interactive Persona & Clinical Scenario Simulator**](#interactive-personas)
-* [**Interactive Monthly Anomaly Calendar Heatmap**](#interactive-calendar)
-* [**Interactive Comparative Period & Delta ($\Delta$) Engine**](#interactive-delta)
-* [**Interactive Goal Configurator & Target Presets**](#interactive-goals)
-* [**Interactive Clinical Alert & Threshold Rule Builder**](#interactive-alerts)
-* [**Interactive Physiological Formulas & Recovery Math**](#interactive-math)
-* [**Interactive Hardware & Wearables Ingestion Matrix**](#interactive-wearables)
-* [**Interactive API Terminal & cURL Testbench**](#interactive-api)
+* [**Persona & Clinical Scenario Simulator**](#interactive-personas)
+* [**Monthly Anomaly Calendar Heatmap**](#interactive-calendar)
+* [**Comparative Period & Delta ($\Delta$) Engine**](#interactive-delta)
+* [**Goal Configurator & Target Presets**](#interactive-goals)
+* [**Clinical Alert & Threshold Rule Builder**](#interactive-alerts)
+* [**Physiological Formulas & Recovery Math**](#interactive-math)
+* [**Hardware & Wearables Ingestion Matrix**](#interactive-wearables)
+* [**API Terminal & cURL Testbench**](#interactive-api)
 * [**System Topology & Java 21 Spring Boot Microservice**](#system-architecture)
 * [**10-Second Quickstart (Docker / Local / Frontend)**](#quickstart)
-* [**Interactive Verification & Audit Checklist**](#verification-checklist)
+* [**Verification & Audit Checklist**](#verification-checklist)
 
 ---
 
