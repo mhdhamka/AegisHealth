@@ -3,7 +3,6 @@
 # AegisHealth
 > High-Frequency Longitudinal Biometrics Intelligence & Autonomic Telemetry Engine
 
-[![Live Web App](https://img.shields.io/badge/LIVE%20APP-OPEN%20TELEMETRY%20SUITE-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ais-dev-3jld7txfhxacz4zpi6qm63-469594656936.asia-east1.run.app)
 [![React 19](https://img.shields.io/badge/Frontend-React%2019%20%7C%20Vite%206-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript%205.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Java 21](https://img.shields.io/badge/Backend-Java%2021%20%7C%20Spring%20Boot%203.3-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://spring.io/projects/spring-boot)
