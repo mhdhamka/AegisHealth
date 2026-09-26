@@ -1,7 +1,7 @@
 <div align="center">
 
 # AegisHealth
-### High-Frequency Longitudinal Biometrics Intelligence & Autonomic Telemetry Engine
+> High-Frequency Longitudinal Biometrics Intelligence & Autonomic Telemetry Engine
 
 [![Live Web App](https://img.shields.io/badge/LIVE%20APP-OPEN%20TELEMETRY%20SUITE-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ais-dev-3jld7txfhxacz4zpi6qm63-469594656936.asia-east1.run.app)
 [![React 19](https://img.shields.io/badge/Frontend-React%2019%20%7C%20Vite%206-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
